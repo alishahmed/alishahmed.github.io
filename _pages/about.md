@@ -27,7 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+Hi! I'm Alisha, a PhD Candidate in Neuroscience at New York University, and I study how the brain processes sensory information. I'm deeply interested in understanding how individual neurons, brain areas, and motor systems all work together to process sensory information and generate behaviors and movements!  
+
+At NYU, I've worked with [Simon Peron](https://www.peronlab.org/) at the [Center for Neural Science](https://as.nyu.edu/departments/cns.html) and with [Alex Williams](https://neurostatslab.org/) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/). Previously, I earned my B.S. in Neuroscience and B.A. in Plan II Honors at UT Austin (hook'em horns!), where I worked with [MacKenzie Howard](https://www.howardneurolab.com/) to explore how neurons in epileptic brains can be dysfunctional. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
