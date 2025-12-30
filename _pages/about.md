@@ -31,7 +31,3 @@ Hi! I'm Alisha, a PhD Candidate in Neuroscience at New York University, and I st
 
 At NYU, I've worked with [Simon Peron](https://www.peronlab.org/) at the [Center for Neural Science](https://as.nyu.edu/departments/cns.html) and with [Alex Williams](https://neurostatslab.org/) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/). Previously, I earned my B.S. in Neuroscience and B.A. in Plan II Honors at UT Austin (hook'em horns!), where I worked with [MacKenzie Howard](https://www.howardneurolab.com/) to explore how neurons in epileptic brains can be dysfunctional. 
 
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your # `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons]
-# (https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
