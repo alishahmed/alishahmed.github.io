@@ -194,6 +194,7 @@ exclude:
   - vendor
   - _pages/blog
   - _pages/repositories
+  - _pages/news
 
   
 keep_files:
