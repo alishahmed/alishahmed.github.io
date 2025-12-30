@@ -195,6 +195,7 @@ exclude:
   - _pages/blog
   - _pages/repositories
   - _pages/news
+  - _pages/projects.md
 
   
 keep_files:
