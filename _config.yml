@@ -192,12 +192,12 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/blog
   - _pages/repositories
   - _pages/news
   - _pages/projects.md
   - _pages/teaching.md
   - _pages/people.md
+
 
   
 keep_files:
